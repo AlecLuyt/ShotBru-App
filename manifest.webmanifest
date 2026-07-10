@@ -1,0 +1,37 @@
+{
+  "name": "ShotBru \u2014 Golf Scoring and Side Bets",
+  "short_name": "ShotBru",
+  "description": "Offline golf scoring, side bets, settlements, payment tracking, round history and leaderboard.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f5f2",
+  "theme_color": "#10161a",
+  "categories": [
+    "sports",
+    "lifestyle",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
